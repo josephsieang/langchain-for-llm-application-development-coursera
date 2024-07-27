@@ -3,7 +3,7 @@
 ## Description
   * Learn LangChain by following the tutorials in the course 'LangChain for LLM Application Development' on Coursera.
   * Replace all deprecated langchain modules/tools in the tutorial codes with the latest modules/tools.
-
+  * Use "gpt-4o-mini" as llm model instead of "gpt-3.5-turbo" mentioned in tutorial for performance and cost consideration.
 ## Environment
   * Install python 3.11.5
   * Prepare .env file with the content below and place it at root folder:
