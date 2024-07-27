@@ -36,3 +36,8 @@
   * Embedding models
   * Vector stores
   * QA with data
+
+### L5-Evaluation.ipynb
+  * Example generation
+  * Manual evaluation (and debuging)
+  * LLM-assisted evaluation
