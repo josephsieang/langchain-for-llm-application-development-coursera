@@ -26,8 +26,13 @@
     * Use additional llm to summarize previous chat history
 
 ### L3-Chains.ipynb
-* LLMChain
-* Sequential Chains
-  * SimpleSequentialChain
-  * SequentialChain
-* Router Chain
+  * LLMChain
+  * Sequential Chains
+    * SimpleSequentialChain
+    * SequentialChain
+  * Router Chain
+
+### L4-QnA.ipynb
+  * Embedding models
+  * Vector stores
+  * QA with data
