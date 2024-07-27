@@ -41,3 +41,7 @@
   * Example generation
   * Manual evaluation (and debuging)
   * LLM-assisted evaluation
+
+### L6-Agents.ipynb
+  * Using built in LangChain tools: Wikipedia
+  * Defining your own tools - Sum Calculator and Today date
