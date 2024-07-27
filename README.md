@@ -1,10 +1,26 @@
 # langchain-for-llm-application-development-coursera
 
 ## Description
-* Learn LangChain by following the tutorials in the course 'LangChain for LLM Application Development' on Coursera.
-* Prepare .env file with the content below:
-  * OPENAI_API_KEY=<YOUR_OPENAI_API_KEY_HERE>
-* Replace all deprecated langchain modules with latest modules.
+  * Learn LangChain by following the tutorials in the course 'LangChain for LLM Application Development' on Coursera.
+  * Replace all deprecated langchain modules/tools in the tutorial codes with the latest modules/tools.
+
+## Environment
+  * Install python 3.11.5
+  * Prepare .env file with the content below:
+    * OPENAI_API_KEY=<YOUR_OPENAI_API_KEY_HERE>
+  * Install packages
+    * python-dotenv 0.21.0
+    * openai 1.37.0
+    * langchain 0.2.11
+    * langchain-community 0.2.10
+    * langchain-core 0.2.24
+    * langchain-experimental 0.0.63
+    * langchain-openai 0.1.19
+    * langchain-text-splitters 0.2.2
+    * langchainhub 0.1.20
+    * pandas 2.0.3
+    * docarray 0.40.0
+    * DateTime 5.5
 
 ### L1-Model_prompt_parser.ipynb
  * Direct API calls to OpenAI
