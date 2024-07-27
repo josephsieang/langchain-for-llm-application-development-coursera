@@ -6,7 +6,7 @@
 
 ## Environment
   * Install python 3.11.5
-  * Prepare .env file with the content below:
+  * Prepare .env file with the content below and place it at root folder:
     * OPENAI_API_KEY=<YOUR_OPENAI_API_KEY_HERE>
   * Install packages
     * python-dotenv 0.21.0
@@ -22,6 +22,7 @@
     * docarray 0.40.0
     * DateTime 5.5
 
+## Codes
 ### L1-Model_prompt_parser.ipynb
  * Direct API calls to OpenAI
  * API calls through LangChain:
