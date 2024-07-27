@@ -24,3 +24,10 @@
     * Not consider integrate it with RunnableWithMessageHistory until we have good usecase or example of using it
   * Simulate ConversationSummaryMemory to be used by RunnableWithMessageHistory
     * Use additional llm to summarize previous chat history
+
+### L3-Chains.ipynb
+* LLMChain
+* Sequential Chains
+  * SimpleSequentialChain
+  * SequentialChain
+* Router Chain
